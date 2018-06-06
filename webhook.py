@@ -37,7 +37,7 @@ def ResponseForLaunchRequest():
                         },
                     "card": {},
                     "directives": [],
-                    "shouldEndSession": true
+                    "shouldEndSession": True
                     }
                 }
 
@@ -66,7 +66,7 @@ def ResponseForEndRequest():
                         },
                     "card": {},
                     "directives": [],
-                    "shouldEndSession": false
+                    "shouldEndSession": False
                     }
                 }
     return result
