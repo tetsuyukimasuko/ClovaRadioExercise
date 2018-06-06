@@ -22,7 +22,7 @@ def ResponseForLaunchRequest():
                 "sessionAttributes": {},
                 "response": {
                     "outputSpeech": {
-                        "type": "SimpleSpeech",
+                        "type": "SpeechList",
                         "values": [
                             {
                             "type": "PlainText",
